@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<LogisimGoesFPGABoardMapInformation>
+   <GlobalMapInformation BoardName="DE1_SOC1" ToplevelCircuitName="mux4to1"/>
+   <MAPPEDCOMPONENT_1 Height="10" Key="PIN: /m#LED0" LocationX="345" LocationY="319" Width="10"/>
+   <MAPPEDCOMPONENT_2 Height="30" Key="PIN: /s0#Button0" LocationX="90" LocationY="337" Width="21"/>
+   <MAPPEDCOMPONENT_3 Height="30" Key="PIN: /s1#Button0" LocationX="117" LocationY="337" Width="21"/>
+   <MAPPEDCOMPONENT_4 Height="30" Key="PIN: /u#Button0" LocationX="339" LocationY="337" Width="21"/>
+   <MAPPEDCOMPONENT_5 Height="30" Key="PIN: /v#Button0" LocationX="310" LocationY="337" Width="21"/>
+   <MAPPEDCOMPONENT_6 Height="30" Key="PIN: /w#Button0" LocationX="283" LocationY="337" Width="21"/>
+   <MAPPEDCOMPONENT_7 Height="30" Key="PIN: /x#Button0" LocationX="254" LocationY="337" Width="21"/>
+</LogisimGoesFPGABoardMapInformation>
